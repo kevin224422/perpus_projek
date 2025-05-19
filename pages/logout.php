@@ -1,5 +1,7 @@
 <?php
 session_start();
 session_destroy();
-header("Location: login.php");
-exit();
+header("Location: pages/admin-login.php");
+exit;
+?>
+    
