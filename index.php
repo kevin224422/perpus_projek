@@ -43,7 +43,7 @@ $tgl = date('Y-m-d');
                     <li><a href="cetak/laporan_buku.php" target="_blank" class="flex items-center p-3 bg-gray-200 rounded hover:bg-gray-300 transition">
                         <i class="ph ph-file-text mr-2"></i> Lap. Data Buku</a></li>
                 </ul>   
-            <form action="logout.php" method="post" class="mt-6">
+            <a href="./pages/logout.php" class="mt-6">
                     <button type="submit" class="w-full p-4 rounded-xl text-center font-semibold bg-red-500 hover:bg-red-600 text-white transition duration-300">
                         🔓 Logout
                     </button>
