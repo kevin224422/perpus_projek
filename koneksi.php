@@ -1,9 +1,9 @@
 <?php
 
 $server = "localhost";
-$user = "root";
-$password = "";
-$nama_database = "dbpus";
+$user = "u291096144_perpus_kevin";
+$password = "?T+OZktKS9a";
+$nama_database = "u291096144_perpus_kevin";
 
 $db = mysqli_connect($server, $user, $password, $nama_database);
 
@@ -12,4 +12,3 @@ if( !$db ){
 }
 
 ?>
-
