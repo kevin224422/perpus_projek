@@ -47,7 +47,7 @@ $tgl = date('Y-m-d');
                     <button type="submit" class="w-full p-4 rounded-xl text-center font-semibold bg-red-500 hover:bg-red-600 text-white transition duration-300">
                         🔓 Logout
                     </button>
-                </form>
+</a>
             </aside>     
             <main class="flex-1 bg-white shadow-lg rounded-lg p-6">
                 <?php
